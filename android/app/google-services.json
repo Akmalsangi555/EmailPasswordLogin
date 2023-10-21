@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527931866912",
+    "project_id": "emailpasswordauth-53038",
+    "storage_bucket": "emailpasswordauth-53038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527931866912:android:fd88cfe424178f4abc2145",
+        "android_client_info": {
+          "package_name": "com.example.email_password_login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkgByWhe2-v-iAv_VH8lkjuHI0JK7Bc0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
