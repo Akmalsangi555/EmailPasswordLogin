@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import 'screens/auth/login_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 
@@ -22,7 +21,7 @@ class MyApp extends StatelessWidget {
       title: 'Email and Password Login',
       theme: ThemeData(
         primarySwatch: Colors.red,
-        // colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
       home: LoginScreen(),
