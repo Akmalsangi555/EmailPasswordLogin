@@ -1,4 +1,4 @@
-package com.example.email_password_login_firebase
+package com.example.email_password_login
 
 import io.flutter.embedding.android.FlutterActivity
 

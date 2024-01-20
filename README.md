@@ -1,4 +1,4 @@
-# email_password_login_firebase
+# email_password_login
 
 A new Flutter project.
 
